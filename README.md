@@ -277,7 +277,9 @@ Tailwind CSS
 The amazing React Community ❤️
 
 <div align="center">
-Made with ❤️ by the Gamified Dashboard Team
-Turn your workflow into a game and fuel your productivity! 🚀
 
-</div> 
+✨ Made with ❤️ by the **Gamified Dashboard Team**  
+🎮 Turn your workflow into a game and fuel your productivity! 🚀
+
+</div>
+
