@@ -276,10 +276,11 @@ Tailwind CSS
 
 The amazing React Community ❤️
 
-<div align="center">
-
-✨ Made with ❤️ by the **Gamified Dashboard Team**  
-🎮 Turn your workflow into a game and fuel your productivity! 🚀
-
-</div>
+<p align="center">
+  <a href="https://github.com/yourusername/gamified-dashboard">
+    <img src="https://img.shields.io/badge/✨-Made%20with%20❤️-ff69b4.svg?style=for-the-badge">
+  </a>
+  <br>
+  <strong>🎮 Turn your workflow into a game and fuel your productivity! 🚀</strong>
+</p>
 
